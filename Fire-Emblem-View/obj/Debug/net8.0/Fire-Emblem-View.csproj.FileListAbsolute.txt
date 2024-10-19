@@ -1,0 +1,11 @@
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/bin/Debug/net8.0/Fire-Emblem-View.deps.json
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/bin/Debug/net8.0/Fire-Emblem-View.dll
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/bin/Debug/net8.0/Fire-Emblem-View.pdb
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/Fire-Emblem-View.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/Fire-Emblem-View.AssemblyInfoInputs.cache
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/Fire-Emblem-View.AssemblyInfo.cs
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/Fire-Emblem-View.csproj.CoreCompileInputs.cache
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/Fire-Emblem-View.dll
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/refint/Fire-Emblem-View.dll
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/Fire-Emblem-View.pdb
+/Users/pablogallardowoldarsky/Desktop/IIC2113-DDS/Proyecto/Fire-Emblem/Fire-Emblem-View/obj/Debug/net8.0/ref/Fire-Emblem-View.dll
